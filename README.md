@@ -1,2 +1,3 @@
 # CSS-Intro
-My CSS Practice Introduction Page
+
+This is my Showcase of applying CSS Styles into a static HTML page.
